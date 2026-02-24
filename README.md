@@ -116,8 +116,9 @@ The `class_weight='balanced'` strategy for Logistic Regression significantly imp
 -   **Average cost per customer**: ₦2,196.59
 
 ## Installation and Setup
-To run this notebook, you will need to install the following Python libraries:
-File path: Telco Customer Churn.csv
+To run this notebook, you will need to install the following Python libraries
+
+'File path: Telco Customer Churn.csv'
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
