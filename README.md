@@ -115,3 +115,21 @@ The `class_weight='balanced'` strategy for Logistic Regression significantly imp
 -   **Total cost**: ₦3,095,000
 -   **Average cost per customer**: ₦2,196.59
 
+## Installation and Setup
+To run this notebook, you will need to install the following Python libraries:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn
+
+
+Group Members
+Name	Email	GitHub Repository
+Jemiri Daniel Taiwo	updatedan2@gmail.com	https://github.com/jemiridaniel/TS_Academy_Capstone_Project
+Kuram John Sokomba	Sokomba16@gmail.com	https://github.com/SokombaGit/TS_Acedemy_Capstone_project
+Oluba Amos Oluwasegun	amosoluba@gmail.com	https://github.com/Famous-Amos1/TS-Academy-Capstone-Project
+Mbata Chidumaga	mbataechidumaga@gmail.com	https://github.com/chidumaga/TS_Acedemy_Capstone_Project
+Bethel Ya'u	sheshamkaza@gmail.com	https://github.com/She-Wins/TS_Academy_Capstone_Project
+Nwafor Deborah	nwafordeborah41@gmail.com	https://github.com/DRDEBBIE256/TS-Academy-Capstone-Project..git
+Jeremiah Yusuf    jeremiahyusuf185@gmail.com	https://github.com/Jeremy-1020/TS-Academy-Capstone-Project
+Pyagbara Prince    Princepyagbara@gmail.com    https://github.com/PrinceZorzor/TS_Acedemy_Capstone_Project
+License
