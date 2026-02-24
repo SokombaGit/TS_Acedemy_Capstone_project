@@ -118,7 +118,6 @@ The `class_weight='balanced'` strategy for Logistic Regression significantly imp
 ## Installation and Setup
 To run this notebook, you will need to install the following Python libraries
 
-'File path: (path/to/Telco Customer Churn.csv)
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
